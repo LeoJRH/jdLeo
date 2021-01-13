@@ -1,5 +1,5 @@
 使用说明：
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
 
 _JdTdudfp，即可从输出的Json中获取eid和fp。
 
